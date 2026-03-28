@@ -1,0 +1,6 @@
+﻿  ProjektZaliczeniowyC++.cpp
+C:\Users\SławomirKruszyński\source\repos\ProjektZaliczeniowyC++\Character.h(63,19): warning C4244: "-=": konwersja z "numberMonAttack" do "numberHealth", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ProjektZaliczeniowyC++.cpp”)
+  
+C:\Users\SławomirKruszyński\source\repos\ProjektZaliczeniowyC++\ProjektZaliczeniowyC++.cpp(235,23): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  ProjektZaliczeniowyC++.vcxproj -> C:\Users\SławomirKruszyński\source\repos\ProjektZaliczeniowyC++\x64\Debug\ProjektZaliczeniowyC++.exe
